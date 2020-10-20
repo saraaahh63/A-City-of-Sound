@@ -1,4 +1,4 @@
-# A-City-of-Sound
+# A City of Sound
 Communications Lab Project at NYU Shanghai (Fall 2017)
 
 This project was showcased at the first annual NYU Urban Design Art Gala, "UNDER CONSTRUCTION" in the spring of 2017.
